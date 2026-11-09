@@ -1,0 +1,14 @@
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#\bin\Debug\19241_C#.exe.config
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#\bin\Debug\19241_C#.exe
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#\bin\Debug\19241_C#.pdb
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#\obj\Debug\19241_C#.csproj.AssemblyReference.cache
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#\obj\Debug\19241_C#.csproj.CoreCompileInputs.cache
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#\obj\Debug\19241_C#.exe
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#\obj\Debug\19241_C#.pdb
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#_SoundEx\bin\Debug\19241_C#.exe.config
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#_SoundEx\bin\Debug\19241_C#.exe
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#_SoundEx\bin\Debug\19241_C#.pdb
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#_SoundEx\obj\Debug\19241_C#.csproj.AssemblyReference.cache
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#_SoundEx\obj\Debug\19241_C#.csproj.CoreCompileInputs.cache
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#_SoundEx\obj\Debug\19241_C#.exe
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C#_SoundEx\obj\Debug\19241_C#.pdb
